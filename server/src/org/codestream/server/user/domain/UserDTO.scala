@@ -1,4 +1,4 @@
-package org.codestream.server.data
+package org.codestream.server.user.domain
 
 import scala.collection.mutable.HashMap
 
