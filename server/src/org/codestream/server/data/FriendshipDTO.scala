@@ -2,7 +2,7 @@ package org.codestream.server.data
 
 import scala.collection.mutable.HashMap
 
-class FriendshipDTO(){
+class FriendshipDTO {
   private var mFriendName = "";
   private var mInitiatorName = "";
   private var mFriendshipId = 0;

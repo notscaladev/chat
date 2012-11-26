@@ -2,7 +2,7 @@ package org.codestream.server.data
 
 import scala.collection.mutable.HashMap
 
-class MessageDTO() {
+class MessageDTO {
   private var mMessageBody = "";
   private var mPostDate = "";
   private var mAuthorName = "";
